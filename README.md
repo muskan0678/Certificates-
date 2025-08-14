@@ -2,4 +2,4 @@
 
 *Java Internship* — CodeZeal
 
-![Java Certificate](certificatej.png)
+![Java Certificate](certificatej.jpg)
